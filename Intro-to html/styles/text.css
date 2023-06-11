@@ -1,0 +1,49 @@
+.video-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    
+}
+
+
+.video-stats {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: grey;
+}
+
+
+
+.video-author {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-size: 15px;
+}
+
+
+.video-description {
+    font-size: 15px;
+    color: grey;
+    line-height: 22px;
+}
+
+.apple-text {
+    font-size: 30px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+     
+}
+
+
+
+.shop-link {
+    cursor: pointer;
+    margin-left: 12px;
+}
+
+.shop-link:hover {
+    text-decoration: underline;
+}
